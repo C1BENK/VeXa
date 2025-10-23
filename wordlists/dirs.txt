@@ -1,0 +1,12 @@
+admin
+login
+backup
+.git
+.env
+wp-admin
+wp-login.php
+administrator
+phpmyadmin
+test
+database.sql
+backup.zip
