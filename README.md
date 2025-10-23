@@ -63,5 +63,5 @@ git clone  https://github.com/sqlmapproject/sqlmap.git
 ---
 
 <p align="center">
-  <img src="screenshot/Screenshot.png" width="800" alt="VeXa preview">
+  <img src="./screenshot/foto.png" width="800" alt="VeXa preview">
 </p>
