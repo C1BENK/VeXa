@@ -7,7 +7,7 @@
 > ⚠️ **For authorized security testing only. Do not use on systems you don't own or have explicit permission to test.**
 
 ---
-#Initial View
+# Initial View
 
 ![alt text](https://github.com/C1BENK/VeXa/blob/main/screenshot/foto1.jpg?raw=true)
 
