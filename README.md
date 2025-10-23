@@ -60,7 +60,6 @@ git clone  https://github.com/sqlmapproject/sqlmap.git
 > Developer: C1BENK/Wh04amiXx
 ```
 
----
 
 <p align="center">
   <img src="./screenshot/foto.png" width="800" alt="VeXa preview">
