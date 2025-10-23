@@ -24,7 +24,7 @@
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/yourname/VeXa.git
+git clone https://github.com/C1BENK/VeXa.git
 cd VeXa
 pip install -r requirements.txt
 python vexa.py
